@@ -1,3 +1,3 @@
 # django-ecommerce
 
-> Work in Progress
+> Project is ongoing
